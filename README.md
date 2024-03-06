@@ -9,7 +9,7 @@ Conteúdo do curso estrutura de dados
 7. Tabelas de Hashing (HashTables)
 8. Árvores (Trees)
 9. Grafos (Graphs)
--------------------------------------------------
+
 1. Algoritmos de Ordenação
 1.1. Bolha (Bubble Sort)
 1.2. Seleção (Selection Sort)
@@ -19,6 +19,7 @@ Conteúdo do curso estrutura de dados
 2. Algoritmos de Busca/Pesquisa
 2.1. Busca sequencial
 2.2. Busca binária
- 
-![alt text](image.png)
+
+-------------------------------------------------
+![alt text](image-1.png)
 
