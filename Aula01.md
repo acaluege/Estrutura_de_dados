@@ -1,6 +1,16 @@
 Curso: Estrutura de Dados
 Aula:01
 Data: 06.03.2024 - Hota inicio: 14:00 - Termino: 14h30
+----------------------------------------------------------
+1. Algoritmos de Ordenação
+1.1. Bolha (Bubble Sort)
+1.2. Seleção (Selection Sort)
+1.3. Inserção (Insertion Sort)
+1.4. Merge Sort
+1.5. Quick Sort
+2. Algoritmos de Busca/Pesquisa
+2.1. Busca sequencial
+2.2. Busca binária
 --------------------------------------------------------
 Atenção: A melhor forma de aprender é treinando (Teoria e Prática).
 Nota: Se pretende ser um excelente DevOps, segue a dica:
